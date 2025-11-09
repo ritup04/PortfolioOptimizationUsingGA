@@ -90,13 +90,11 @@ pip install numpy pandas matplotlib deap ipykernel
 
 ## 👩‍💻 Authors  
 
-### **Ritu Pal**
-💼 **B.Tech CSE (AI–ML)** — Adani University  
+### **1. Ritu Pal**
 📧 **Email:** [ritupal1626@gmail.com](mailto:ritupal1626@gmail.com)  
 🌐 **GitHub:** [ritup04](https://github.com/ritup04)   
 
 
-### **Priyanshi Solanki**
-💼 **B.Tech CSE (AI–ML)** — Adani University  
+### **2. Priyanshi Solanki**
 📧 **Email:** [priyanshissolanki7@gmail.com](mailto:priyanshissolanki7@gmail.com)  
 🌐 **GitHub:** [Priyanshi-Solanki](https://github.com/Priyanshi-Solanki)  
